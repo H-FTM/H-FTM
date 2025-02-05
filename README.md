@@ -35,3 +35,5 @@ if __name__ == "__main__":
 ~ me@archbtw
 ❯ exit
 ```
+
+![](https://komarev.com/ghpvc/?username=H-FTM)
