@@ -2,8 +2,9 @@
 
 ~ me@archbtw
 ❯ ls
-hello.py Dev Cours Pentest Reverse
-
+hello.py Dev Cours Pentest Reverse Coucou Hi Hola 
+```
+```bash
 ~ me@archbtw
 ❯ cat hello.py
 class HFTM:
@@ -29,9 +30,8 @@ if __name__ == "__main__":
         bio="Focused On Learning everything possible",
     )
     print(whoami)
-
+```
+```bash
 ~ me@archbtw
 ❯ exit
-
 ```
-
